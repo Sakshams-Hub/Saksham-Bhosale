@@ -1,7 +1,7 @@
 <h1 align="center">Hi there 👋, I'm Saksham Bhosale</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?lines=Frontend%20Developer%20💻;Vue%20%7C%20Nuxt%20%7C%20Tailwind%20Enthusiast🚀;Always%20learning%20something%20new📚;Let's%20build%20something%20awesome!😎&center=true&width=500&height=45">
+  <img src="https://readme-typing-svg.herokuapp.com/?lines=Full%20Stack%20Developer%20💻;Vue%20%7C%20Nuxt%20%7C%20Tailwind%20Enthusiast🚀;Always%20learning%20something%20new📚;Let's%20build%20something%20awesome!😎&center=true&width=500&height=45">
 </p>
 
 ---
