@@ -1,6 +1,6 @@
 # 👋 Hi there, I'm Saksham Bhosale!
 
-### 👨‍💻 Frontend Developer | Vue.js & Nuxt.js Enthusiast | Intern at Ocufox Technologies
+### 👨‍💻 Full Stack Developer | Intern at Ocufox Technologies
 
 Welcome to my GitHub! I'm passionate about building clean, responsive, and scalable web interfaces. I specialize in modern JavaScript frameworks like Vue.js and Nuxt.js, and enjoy working on real-world UI/UX challenges. 🚀
 
@@ -13,7 +13,7 @@ Welcome to my GitHub! I'm passionate about building clean, responsive, and scala
 - 📦 Experienced with **REST APIs**, **GraphQL**, **TanStack Query**, and **Tailwind CSS**
 - 📁 I’ve worked on:
   - Multi-step form w/ persistent state
-  - Resume builder with print-ready templates
+  - Made a Chrome extension to find word meanings
   - Admin dashboards with dynamic tables
   - UI code generation from natural language (NLP)
 
@@ -38,15 +38,6 @@ Welcome to my GitHub! I'm passionate about building clean, responsive, and scala
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=flat&logo=github&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat&logo=postman&logoColor=white)
 ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=flat&logo=figma&logoColor=white)
-
----
-
-## 📈 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=sakshambhosale&show_icons=true&theme=tokyonight" width="48%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=sakshambhosale&theme=tokyonight&hide_border=false" width="48%" />
-</p>
 
 ---
 
